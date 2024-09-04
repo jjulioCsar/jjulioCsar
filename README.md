@@ -10,7 +10,6 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjulioCsar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
       </a>
     </td>
-  </tr>
   <tr>
     <td valign="top" width="50%">
       <h4 align="center">Most Used Languages</h4>
