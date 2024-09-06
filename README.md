@@ -1,30 +1,22 @@
 <h1 align="center">Hi there, I'm Júlio 👋</h1>
 <h3 align="center">Devoted Developer from Brazil</h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/138785549?v=4" alt="Profile Picture" width="250" height="250" style="border-radius: 50%;"/>
-</p>
-
 ## GitHub Statistics 📈
 <table align="center">
   <tr>
-    <td valign="top" width="100%">
+    <td valign="top" width="33%">
       <h4 align="center">GitHub Stats</h4>
       <a href="https://github.com/jjulioCsar">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjulioCsar&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=prs,contribs" alt="GitHub Stats"/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td valign="top" width="100%">
+    <td valign="top" width="33%">
       <h4 align="center">Most Used Languages</h4>
       <a href="https://github.com/jjulioCsar">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjulioCsar&theme=dark&layout=compact" alt="Most Used Languages"/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td valign="top" width="100%">
+    <td valign="top" width="33%">
       <h4 align="center">GitHub Profile Summary</h4>
       <a href="https://github.com/jjulioCsar">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjulioCsar&theme=dark" alt="GitHub Profile Summary"/>
