@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
+<img width=1000vh src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Júlio+Caesar;I'm+17+years+old;I+am+from+Brazil;I+study+Web+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Júlio+Cesar;I'm+17+years+old;I+am+from+Brazil;I+study+Web+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jjulioCsar&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="Júlio Caesar GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjulioCsar&layout=compact&hide_border=true&title_color=ff0000&text_color=ff0000&bg_color=0d1117" />
+  <img width="100%" height="185px" src="https://github-readme-stats.vercel.app/api?username=jjulioCsar&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="Júlio Caesar GitHub Stats" /> 
+  <img width="100%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjulioCsar&layout=compact&hide_border=true&title_color=ff0000&text_color=ff0000&bg_color=0d1117" />
 </div>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jjulioCsar&bg_color=000000&color=ff4d4d&line=ff3333&point=ff1a1a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
