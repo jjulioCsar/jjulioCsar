@@ -15,7 +15,7 @@
 
 <div align="center">  
   <a href="https://www.instagram.com/j.csar__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:jc.csar7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:jc.csar7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://br.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-da-costa-silva-480738260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
